@@ -3,7 +3,6 @@ import os
 import re
 from dotenv import load_dotenv
 from github import Github
-from redminelib import Redmine
 import requests
 import base64
 import time
